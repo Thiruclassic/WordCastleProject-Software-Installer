@@ -17,6 +17,6 @@ Once the application is installed you can find the desktop Icon. You   	can now 
 
 A short video will be played while starting the application. If the video is not being played or if you get only a black screen displayed, right click to play/pause/exit the video.
 
-Thanks for downloading...
+Thanks for downloading....
 
 Have a great day!!!!!
